@@ -47,7 +47,7 @@ sudo chgrp freeswitch /etc/freeswitch
 sudo chmod g+ws /etc/freeswitch
 cd /etc/freeswitch
 git init --shared=0660
-git pull https://github.com/voxserv/freeswitch_conf_minimal.git master
+git pull https://github.com/rbagrov/docker-freeswitch.git master
 
 
 
